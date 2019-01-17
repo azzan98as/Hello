@@ -1,5 +1,5 @@
 /**
- * Author: Azan Alshukaili and hyden
+ * Author: Azan Alshukaili 
  * Date: 2018/01/15
  *
  * A simple hello world program in C
