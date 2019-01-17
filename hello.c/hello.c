@@ -10,7 +10,7 @@
 Azan Alshukaili
 int main(int argc, char **argv) {
 
-  printf("Hello Azan!\n");
-
+  printf("Azan Alshukaili\n");
+  printf("Electrical Engeneering\n");
   return 0;
 }
