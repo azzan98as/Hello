@@ -7,7 +7,7 @@
  */
 #include<stdlib.h>
 #include<stdio.h>
-Azan Alshukaili and hyden
+Azan Alshukaili
 int main(int argc, char **argv) {
 
   printf("Hello Azan!\n");
